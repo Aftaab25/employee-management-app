@@ -63,5 +63,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
 # employee-management-app
-An employee management app (Full Stack) made entirely with Laravel (PHP).
->>>>>>> 53a5d3536742fe124182d394c476a50485a0ea06
+An employee management app (Full Stack) made entirely with Laravel (PHP).  
