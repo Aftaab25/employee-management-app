@@ -8,8 +8,8 @@ use App\Http\Controllers\Backend\UserController;
 | Web Routes
 |--------------------------------------------------------------------------
 |
-| To register web routes for the application. These 
-| routes are loaded by the RouteServiceProvider within a group which
+| To register web routes for the application. These routes are 
+| loaded by the RouteServiceProvider within a group which
 | contains the "web" middleware group.
 |
 */
